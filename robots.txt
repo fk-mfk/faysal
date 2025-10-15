@@ -1,0 +1,10 @@
+# www.robotstxt.org/
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://trailtrustmedia.com/sitemap.xml
+
+
+
