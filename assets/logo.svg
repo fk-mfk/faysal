@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 48" fill="none">
+  <!-- Growth Chart Icon -->
+  <g transform="translate(4, 12)">
+    <!-- Bars showing growth -->
+    <rect x="0" y="18" width="6" height="6" rx="1" fill="#3B82F6" opacity="0.6"/>
+    <rect x="8" y="14" width="6" height="10" rx="1" fill="#3B82F6" opacity="0.7"/>
+    <rect x="16" y="8" width="6" height="16" rx="1" fill="#3B82F6" opacity="0.85"/>
+    <rect x="24" y="2" width="6" height="22" rx="1" fill="#3B82F6"/>
+    
+    <!-- Upward arrow -->
+    <path d="M32 8 L36 4 L40 8" stroke="#10B981" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M36 4 L36 14" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Text: TrailTrustMedia -->
+  <text x="54" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="currentColor">
+    Trail<tspan fill="#3B82F6">Trust</tspan><tspan fill="#10B981">Media</tspan>
+  </text>
+</svg>
