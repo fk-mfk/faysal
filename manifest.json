@@ -1,0 +1,20 @@
+{
+  "name": "TrailTrustMedia - Publicity & Review Agency",
+  "short_name": "TrailTrust",
+  "description": "Publicity and review management for travel and bus agencies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "assets/logo-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
+
+
