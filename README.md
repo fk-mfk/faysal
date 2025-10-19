@@ -142,8 +142,8 @@ Copyright © 2024 TrailTrustMedia. All rights reserved.
 ## Contact
 
 For questions or support:
-- Email: hello@trailtrustmedia.com
-- Phone: +1-555-TRAIL-01
+- Email: inquiry@trailtrustmedia.com
+- Phone: +91 937-3333-613
 - Website: https://trailtrustmedia.com
 
 
